@@ -1,7 +1,6 @@
 # Hi there. I am David 👋 . Welcome to my Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=universemul.repoName)
 
 - 🔭 I am currently working as a Software Engineer at Blablacar.
-- 💬 Ask me about: Python, Elasticsearch, Rust, Data structure
 - 📫 How to reach me: <a href="mailto:davidbarthelemy28@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/davidbarthelemy28/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://stackoverflow.com/users/2910693/mcdave?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 
 
